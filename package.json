@@ -1,0 +1,19 @@
+{
+  "name": "ts-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "npx nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joematune/ts-env.git"
+  },
+  "author": "joe matune",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "typescript": "^4.7.3"
+  }
+}
